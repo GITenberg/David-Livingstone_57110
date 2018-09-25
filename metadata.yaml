@@ -1,0 +1,23 @@
+_repo: David-Livingstone_57110
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Horne, C. Silvester (Charles Silvester)
+    alias: Horne, Charles Silvester
+    birthdate: 1865
+    deathdate: 1914
+    gutenberg_agent_id: '42261'
+    url: http://www.gutenberg.org/2009/agents/42261
+description: ''
+gutenberg_issued: '2018-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: David Livingstone
+url: http://www.gutenberg.org/ebooks/57110
